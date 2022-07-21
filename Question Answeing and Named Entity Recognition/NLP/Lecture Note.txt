@@ -1,0 +1,69 @@
+Page 1
+----------------------------------------------------------------------------------------------------ArcfaceSummary
+Page 2
+----------------------------------------------------------------------------------------------------Contents
+1IntroductiontoVisionTransformers2
+1.1AbriefoverviewofanoperationofaTransformer............
+2
+1.1.1IntroducingtheconceptofAttention..............
+2
+1.2OrdinaryVisionTransformers......................
+3
+1.3PyramidVisionTransformers......................
+3
+1.4CompactConvolutionalViT.......................
+3
+ii
+Page 3
+----------------------------------------------------------------------------------------------------ListofFigures
+1.1SequencetoSequencemodelarchitecture................
+3
+1.2SequencetoSequencemodelarchitecture................
+3
+iii
+Page 4
+----------------------------------------------------------------------------------------------------Acronyms
+1
+Page 5
+----------------------------------------------------------------------------------------------------Chapter1
+IntroductiontoVisionTransformers
+ConventionallyConvolutionalNeuralNetworksareusedwhendealingimages
+andspatialdataforawhile.ButwiththeriseofTransformerstheyhavestarted
+invadingthe˝eldofComputerVisionaswellandtheyhavealreadyconqueredthe
+˝eldofNaturalLanguageProcessingespeciallythesectorofmachinetranslation.
+BeforediscussingaboutVisionTransformersIt'sgoodtohaveanoverviewofthe
+generalarchitectureofTransformers.
+1.1AbriefoverviewofanoperationofaTrans-
+former.
+TransformerNeuralNetworkisanoveldeeplearningarchitecturewhichusesthe
+conceptofattentionforboostthespeedandaccuracy.Transformerswereinitially
+introducedforNaturalLanguageProcessinganditwasableforoutperformthedeep
+learningmodelusedbyGoogleforNeuralMachineTranslation.Apartfromthehigher
+accuracytransformershaveshownanincrediblecompatibilityforparallelization.
+1.1.1IntroducingtheconceptofAttention
+SequencetosequenceDeepLearningmodelshaveshownaremarkablesuccessin
+taskslikemachinetranslation,textsummarizationandimagecaptioning.In2016,
+GoogletranslatestartedusingaSequencetoSequenceLearningmodel.
+AtypicalsequencetosequencemodelconsistoftwopartscalledEncoderand
+DecoderandeachofthemconsistedofRecurrentNeuralNetworksorLSTMs.In
+RNNsandLSTMsthememoryispassedthroughthenetworkashiddenstatesfrom
+timesteptotimestepasshowninh1,h2in˝gure1.1.Andattheplacewherecontext
+ofthesequenceispassedtotheDecoderfromtheEncoder,itispassedasthelast
+hiddenstateofthe˝naltimestepoftheencoderportion.
+2
+Page 6
+----------------------------------------------------------------------------------------------------Figure1.1:SequencetoSequencemodelarchitecture
+But,whenthesequenceisquitelongsomeimportantinformationcouldloose
+whilepassinginformationviathesehiddenstatesandbyusingtheconceptofatten-
+tion,HereinsteadofpassingonlythelasthiddenstatefromtheEncoder,wefeedall
+thehiddenstatesfromthestartofthesequenceintotheDecoder.Byaddingthis
+novelfeatureintosequencetosequencemodels,theirperformanceforinworkingwith
+longersequencehasimprovedenormously.
+Figure1.2:SequencetoSequencemodelarchitecture
+1.2OrdinaryVisionTransformers
+1.3PyramidVisionTransformers
+1.4CompactConvolutionalViT
+3
+Page 7
+----------------------------------------------------------------------------------------------------Bibliography
+4

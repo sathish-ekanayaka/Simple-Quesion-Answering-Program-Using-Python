@@ -1,0 +1,182 @@
+Sathish 
+Ekanayaka
+Electrical and Information Engineering 
+Undergraduate
+A Talented Final Year Engineering 
+student with the ability to think through 
+a problem coupled with the conﬁdence 
+to make ideas heard. I am currently 
+looking for a job opportunity that will 
+allow me to work alongside an expert 
+team of talented individuals.
+Profile and Career Objective
+Machine Learning
+Deep Learning
+Data Science
+Natural Language Processing
+Computer Vision
+Technologies
+Python
+R
+Programming Languages 
+and Tools
+Pandas
+PySpark
+NumPy 
+SciPy
+Tensorflow
+Keras
+Pytorch
+Scikit-Learn
+Tableau
+Leadership
+Project Management
+Presentations
+Flexibility and Adaptability
+Teamwork
+Public Speaking
+Soft Skills and Interpersonal 
+Competencies
+NYSCHEY (PVT) Ltd.
+NYSCHEY (PVT) Ltd.
+Intern AI Engineer | June/2021 - Present
+Applying Machine Learning, AI on Bioinformatical data and Medical Images.
+Fiverr
+Fiverr
+Freelance Machine Learnning Engineer | January/2021 - Present
+I Take Machine Learning, Deep Learning, and Data Science projects and 
+researches as a freelancer. Gained experience in using Machine learning and 
+Deep Learning to solve real-world problems, and working with foreign and 
+local clients with different needs and different backgrounds.
+Visit my profile on -: https://www.fiverr.com/share/r94RV0
+Sierra Telecommunications (PVT) Ltd.
+Sierra Telecommunications (PVT) Ltd.
+Trainee Telecommunication  Engineer | January/2019 - April/2019
+Gained experience in 
+   1. Optical fiber underlaying and installation.
+   2. Operation and maintenance of telecommunication towers .
+Industrial Experience
+B.Sc(Hons) Degree in Electrical and Information Engineering
+B.Sc(Hons) Degree in Electrical and Information Engineering
+Faculty of Engineering, University of Ruhuna | 2016 - 2021
+GCE Advanced Level
+GCE Advanced Level
+Dharmaraja College, Kandy | 2007 - 2015
+Education
+WORKLOAD MANAGEMENT SYSTEM FOR CRICKET FAST 
+BOWLERS 
+Faculty of Engineering, University of Ruhuna - Final year Project  | 2021
+Athlete workload data during practice sessions gathered using wearable 
+IMU sensors and analysis was done using deep learning. Then extracted 
+data and recommendations for future practice sessions are given in a user-
+friendly manner using a web application. During this project, I got to 
+experience how to develop and deploy a complete end-to-end data science 
+project and to use the tools, Django web framework, and PostgreSQL 
+database system.
+HUMAN ACTIVITY RECOGNITION METHOD USING WEARABLE 
+SENSOR DATA AND DEEP LEARNING
+https://github.com/sathish-ekanayaka/Human-Activity-Recognition-Project | 
+2021
+Three deep learning models. a CNN, an LSTM, and a CNN-LSTM were 
+developed to do human activity recognition tasks using wearable IMU 
+sensor data. After three models were developed, the optimum performing 
+model was selected based on compromising between accuracy measures 
+and processing time. 
+A MODEL FOR PREDICT THE FIRST INNING SCORE OF AN ODI 
+CRICKET MATCH
+https://github.com/sathish-ekanayaka/Predicting-the-first-innings-score-of-an-od
+i-cricket-match. | 2020
+A machine learning model using Random Forrest Regressor developed by 
+feeding ball by ball data of past cricket matches to predict the ﬁrst innings' 
+projected score within a 15 run difference range when current data of the 
+game is given as the input. 
+Projects
+0775186743
+
+sekanayaka755@gmail.com
+
+https://www.linkedin.com/in/sathish-
+ekanayake/
+
+51/1 Saubagya, Napana, Gunnepana.
+
+https://github.com/sathish-ekanayaka
+
+Contact
+Dr. N.W.Prins
+Final Year Project Supervisor,
+Senior Lecturer,
+Department of Electrical and 
+Information Engineering,
+Faculty of Engineering,
+University of Ruhuna,
+Mobile : +94763677121
+E-mail : prins@eie.ruh.ac.lk
+Dr.Subodha Gunawardane
+Lecturer for the Embedded Systems 
+module,
+Senior Lecturer,
+Department of Electrical and 
+Information Engineering,
+Faculty of Engineering,
+University of Ruhuna, 
+Mobile : +94702625126
+E-mail : subodha@eie.ruh.ac.lk
+Referees
+AN IMAGE  RECOMMENDATION SYSTEM FOR A TOURISM 
+WEBSITE
+For a Foreign Client  | 2021
+A recommendation system for a Tourism Web Site was developed using 
+Random Forest Classiﬁer algorithm. A large dataset about the tourists who 
+visited Saudi Arabia is used to train the model. An image is selected to 
+display based on Ethnicity, Age, Level of Education, and Marital Status of the 
+user.
+ROMANIZED SINHALA TO SINHALA TEXT CONVERTER
+For a Local Client | 2021
+An Intelligent system using a Bidirectional LSTM algorithm was developed 
+to convert Romanized Sinhala(Singlish) text to a text with Sinhala letters. 
+This enables the user to type Sinhala texts conveniently and robustly.
+SAFETY SYSTEM FOR MOTOR BIKE RIDERS
+Faculty of Engineering ,University of Ruhuna  | 2019
+A 
+system 
+designed 
+and 
+implemented 
+using 
+an 
+Atmega 
+328p 
+microcontroller and C to check whether the person is appropriate for a ride 
+based on his heart rate and alcohol concentration of breath. 
+If the person is not in an appropriate condition an alarm will be switched on.  
+The scientiﬁc paper, "Work Load Management System for Cricketers"  
+based on our ﬁnal year undergraduate project was selected to present 
+at the Annual International Conference of the IEEE Engineering in 
+Medicine and Biology Society which will be held on 31st October 2021.
+
+Publications
+Represented University Rugby Team in SLUG (Sri Lanka University 
+Games) 2019
+
+Captained Faculty Rugby Team in 2019
+
+Represented Faculty Hockey Team.
+
+Worked as a volunteer math teacher for project "Mehewara" 
+
+Organizing committee member at Annual Research Symposium 2018 of 
+Faculty of Engineering, University of Ruhuna
+
+Extra Curricular Activities
+Student member of Institution of Engineers Sri  Lanka (IESL)
+
+Student member of Institute of Electrical & Electronics Engineers 
+(IEEE)
+
+Memberships
+I hereby certify that the particulars mentioned above are accurate to the best of 
+my knowledge.
+Ekanayaka E.M.S.B. 
+05/18/2021
+Conclusion
